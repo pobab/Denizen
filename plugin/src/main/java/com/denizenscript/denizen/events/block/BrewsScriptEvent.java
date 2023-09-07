@@ -21,8 +21,6 @@ public class BrewsScriptEvent extends BukkitScriptEvent implements Listener {
     //
     // @Location true
     //
-    // @Cancellable true
-    //
     // @Triggers when a brewing stand brews a potion.
     //
     // @Context
